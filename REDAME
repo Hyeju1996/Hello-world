@@ -1,0 +1,19 @@
+# codeopen Aglie UX Breakedown
+codeopen is a coding sandbox that allows learners to author websites in the browser.
+
+## User stories 
+- As a registered user, I would like to upgrade to the pro so that I can embed unlimited themes with custom CSS.
+- As an instructor , I would like to use profesor mode to allow students to following along as I live  code.
+- As a Github user, I would like to export a Pen so that I can share it on GH Gist. 
+
+## Task flow
+Story: As a registred user, I would like to upgrade to the pro plan so that I can embed unlimited thems with cutom CSS. 
+1. User navigated to website using the broser address bar. 
+2. User clicks "login" bitton.
+3. User logs in and is redirected to admin.
+4. User clicks on "settings".
+5. User clicks on "Billng".
+6. User clicks on "change plan"
+7. User click on "upgrade." Redirect: payment options
+8. User sumitis payment info.
+admin panel (sucess).
