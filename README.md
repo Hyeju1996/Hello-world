@@ -1,2 +1,2 @@
 # Hello-world
-my first rapository on gibhub
+my first rapository on github
